@@ -13,5 +13,4 @@ leverancier2
 email wachtwoordvergeten
 
 Klant1
-lucaskatamadze.opleiding@gmail.com
-SnoopG12345678
+
